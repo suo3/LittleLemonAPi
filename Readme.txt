@@ -5,6 +5,6 @@ Endpoints
 /restaurant/menu/{id}
 /auth/users/
 /auth/users/me/
-/auth/users/{username}/
+/auth/users/{username}
 /auth/token/login
 /auth/token/logout
