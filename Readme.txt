@@ -1,4 +1,4 @@
-Endpoints:
+Endpoints
 /restaurant/booking/tables/
 /restaurant/booking/tables/{id}
 /restaurant/menu/
