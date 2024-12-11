@@ -1,5 +1,5 @@
 from django.test import TestCase
-from .models import Menu, Booking
+from ..models import Menu, Booking
 
 class MenuTest(TestCase):
     def test_get_item(self):
