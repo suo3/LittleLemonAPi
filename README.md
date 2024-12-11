@@ -1,10 +1,1 @@
-#APIs:
-#/restaurant/booking/tables/
-#/restaurant/booking/tables/{id}
-#/restaurant/menu/
-#/restaurant/menu/{id}
-#/auth/users/
-#/auth/users/me/
-#/auth/users/{username}/
-#/auth/token/login
-#/auth/token/logout
+
